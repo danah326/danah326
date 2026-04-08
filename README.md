@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**danah326/danah326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am a senior Information Technology student at King Saud University (KSU), specializing in the **IoT and Networks track**.  
+I am currently expanding my knowledge in **Cloud Computing** and modern distributed systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Skills & Technologies
+
+### 💻 Programming Languages
+- Java  
+- JavaScript  
+- Dart  
+- Python  
+- PHP  
+
+### 🌐 Web Technologies
+- HTML  
+- CSS  
+
+### 🗄️ Databases
+- SQL  
+- MongoDB (MQL)  
+
+### 🛠️ Tools & Technologies
+- Flutter  
+- Visual Studio Code  
+- Git  
+- JSON  
+- XML  
+
+---
+
+## 📁 Projects
+*(To be added soon...)*
+
+---
+
+## 📬 Contact & Info
+
+|  |  |
+|--|--|
+| 📧 Email | your-email@example.com |
+| 📍 Location | Riyadh, Saudi Arabia |
+| 🎓 University | King Saud University |
+| 🧠 Major | Information Technology (IoT & Networks) |
