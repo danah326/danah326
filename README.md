@@ -34,5 +34,3 @@ I am currently expanding my knowledge in **Cloud Computing** and modern distribu
 
 ## 📁 Projects
 *(To be added soon...)*
-
----
