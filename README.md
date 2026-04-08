@@ -36,12 +36,3 @@ I am currently expanding my knowledge in **Cloud Computing** and modern distribu
 *(To be added soon...)*
 
 ---
-
-## 📬 Contact & Info
-
-|  |  |
-|--|--|
-| 📧 Email | your-email@example.com |
-| 📍 Location | Riyadh, Saudi Arabia |
-| 🎓 University | King Saud University |
-| 🧠 Major | Information Technology (IoT & Networks) |
