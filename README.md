@@ -1,8 +1,6 @@
 # 👋 Hi there!
 
-## 👩‍💻 About Me
-I am a senior Information Technology student at King Saud University (KSU), specializing in the **IoT and Networks track**.  
-I am currently expanding my knowledge in **Cloud Computing** and modern distributed systems.
+I am a senior Information Technology student (Internet Of Things and Networks track) at King Saud University (KSU). Currently learning Cloud Computing and modern distributed systems.
 
 ---
 
