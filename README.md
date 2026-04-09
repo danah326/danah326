@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m a senior IT student at King Saud University (Internet of Things and Networks track), and a junior full-stack developer. Currently learning Cloud Computing and modern distributed systems.
+I’m a senior Information Technology (Internet of Things and Networks track) student at King Saud University, and a junior full-stack developer. Currently learning Cloud Computing and modern distributed systems.
 
 ---
 
